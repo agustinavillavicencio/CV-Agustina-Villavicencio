@@ -10,3 +10,4 @@ También modifiqué la tipografía general del sitio, integrando una fuente desd
 Después guardé todo y comencé el proceso de publicación de la página. Fue un poco complicado al principio, tuve que arreglar unos errores porque mi foto no se visualizaba pero después salió todo bien. 
 
 # Link pagina
+https://agustinavillavicencio.github.io/Tarea-3-CV-Villavicencio/
